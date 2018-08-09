@@ -1,11 +1,9 @@
 # GitHub
-Andreessen Horowitz announced a whopping $100 million investment in GitHub this week. You can read commentary and speculation all over the web about what GitHub will do with the money, whether this was a good investment for Andreessen Horowitz and whether taking such a large investment is a good thing for GitHub.
+Microsoft announced it has reached an agreement to acquire GitHub, the world’s leading software development platform(more than 28 million developers). Together, the two companies will empower developers to achieve more at every stage of the development lifecycle, accelerate enterprise use of GitHub, and bring Microsoft’s developer tools and services to new audiences.
 
 But what the heck is GitHub and why are developers so excited about it? You may have heard that GitHub is a code sharing and publishing service, or that it’s a social networking site for programmers. Both statements are true, but neither explain exactly why GitHub is special.
 
 At the heart of GitHub is Git, an open source project started by Linux creator Linus Torvalds. Matthew McCullough, a trainer at GitHub, explains that Git, like other version control systems, manages and stores revisions of projects. Although it’s mostly used for code, McCullough says Git could be used to manage any other type of file, such as Word documents or Final Cut projects. Think of it as a filing system for every draft of a document. 
-
-This tutorial was actually made for highschool students to learn Git and Github. The actual tutorial is more difficult than this, you can find it [here](https://github.com/zulip/zulip-gci/blob/master/tasks/submit-a-pull-request.md). Over 200 students from all over the world completed this tutorial succesfully. This is a much easier version of that tutorial. If highschool students can do this task, you can too.
 
 After completing this task, you would be finally ready to contribute to Open Source, so take your time and go through slowly and ask for help wherever you get stuck.
 
