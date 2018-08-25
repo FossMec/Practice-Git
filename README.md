@@ -42,20 +42,20 @@ Submitting a pull request is the process where you send the changes you've made 
 <br>
 <br>
 
-#### * Step 1: Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
+#### Step 1: Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
 <br>
 <i>Forks are copies of a main repository which are available for individual users to edit according to their preferences.</i>
 <img src="http://i.imgur.com/Ayvkflu.png"/>
 <br>
 <br>
-####  * Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
+#### Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
 <br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 <br>
 
-#### * Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed.
+#### Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed (Command Prompt for Windows users).
 <br>
-Paste this onto the terminal. You are making the files available on you Computer.
+Paste this onto the terminal. You are making the files from your repository available on your computer.
 
 
 `git clone https://github.com/<your_username>/Practice-Git`
@@ -64,7 +64,8 @@ Paste this onto the terminal. You are making the files available on you Computer
 <br>
 <img src="http://image.prntscr.com/image/8c27469b5f254f609307d4254d2be5bc.png">
 <br>
-#### * Step 4:  Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
+
+#### Step 4:  Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
 <br>
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
 <br>
@@ -73,7 +74,7 @@ Paste this onto the terminal. You are making the files available on you Computer
 
 This step includes basic knowledge of the terminal. If you're already familiar with the terminal you can read through. If you're a complete beginner you'll have go through other external tutorials and find it and learn itonline.
 
-It is recommended that you have a working Linux installation. If you need help with Linux installation please contact any of the Core Members and we'll be happy to help you out. But to do this tutorial you don't have to have a Linux. A windows will do just fine. And if you get stuck, Google it or ask in any of the group in slack or whatsapp.
+It is recommended that you have a working Linux installation. If you need help with Linux installation please contact any of the FOSSMEC members and we'll be happy to help you out. But to do this tutorial you don't have to have a Linux. A windows will do just fine. And if you get stuck, Google it.
 
 [Beginner Command Line Tutorials](https://www.codecademy.com/learn/learn-the-command-line)
 
@@ -121,6 +122,8 @@ $nano file.txt
 ```
 <br>
 
+Note that many of these commands will be different for Windows command prompt.
+
 ## Step 4
 
 In this step we will go further into the command line tools of git.
@@ -142,7 +145,7 @@ Codecademy has a really good tutorial on using the git command line.
 Once you're familiar with command line tools, it is time to get hands on approach on that as well.
 Use git command line tools to do something similar as to what you've done in step 2. Since you've already cloned the file onto your local system. A new folder will be visible called `Practice-Git`.
 
-* Go into you fork folder on your system using your command line and go into the `submit-a-pull-request` folder. Inside the folder make an another folder with you user name (hint : `mkdir <Your_username>`).
+* Go into your folder on your system using your command line and go into the `submit-a-pull-request` folder. Inside the folder make an another folder with you user name (hint : `mkdir <Your_username>`).
 
 ```
 $cd submit-a-pull-request
@@ -166,7 +169,7 @@ $touch hello-world.md
 ```
 $git add .
 ```
-* Now that's done, you have to save your file, which in git is known as commit. You can do it by.
+* Now that's done, you have to save your changes, which in git is known as commit. You can do it by.
 
 ```
 $git commit -m "My First Commit."
@@ -179,4 +182,6 @@ $git push
 
 * Now after it uploads the new file, through the browser go to `https://github.com/<your_username>/Practice-Git`, where `<your_username>` is your github username.
 
-* Now your in your copy of main file. To merge it with the main copy click the option make a pull request.
+* Now, you can use the "Pull Request" button to send a request to merge your changes into FOSSMEC's Practice-Git repository. Do this, and we shall merge your request as soon as we can!
+
+* Thats it! Now go to the Google Form in our broadcast message and fill it out to let us know you have completed the challenge.
