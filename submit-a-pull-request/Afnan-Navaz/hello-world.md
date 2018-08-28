@@ -9,7 +9,7 @@
 Python
 </li>
 <li>
-Amime
+Anime
 </li>
 <li>
 Film
