@@ -11,6 +11,8 @@
  <li>HTML</li>
 </ul>
 
+***
+
 <h2><b>My interests</b></h2>
  <ol>
    <li>FPS Gaming</li>
