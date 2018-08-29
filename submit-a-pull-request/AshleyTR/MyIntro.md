@@ -17,6 +17,6 @@
  <ol>
    <li>FPS Gaming</li>
    <li>Coding</li>
-   <li>3D Designing</li>
+   <li>3D Design</li>
    <li>Photo and Video Editing</li>
  </ol>
