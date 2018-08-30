@@ -1,10 +1,14 @@
-Hey I'm Ravi from CS A 
+Hey! I'm Ravi from CS-A
 
-I don't know a lot about coding. Just a few things from C++ I picked up 
-from school.But I have to say, trying out Git-Hub was fun and i would 
-definately like to learn more about it.
+I'm really quite surprised that I've found coding interesting especially 
+since I'm more of an outdoor person.
 
-I'm more of a sportsman so I'm kinda surprised that coding has seemed to 
-be interesting to me.The tutorial were extremely helpfull so kudos to 
-the FOSSMEC team and I'm really look forward to working with you guys. 
-:)
+I only know a few basic programmes that i learned in !2th (C++).
+But I found GitHub really fun and the tuturial was easily 
+understandable, so kudos to the FossMec team for putting a good amount 
+of work inorder to help us be better developers :)
+
+I look forward to working with you guys and maybe we can talk about 
+who's gonna win the Premier League? :p
+
+Cheers!
