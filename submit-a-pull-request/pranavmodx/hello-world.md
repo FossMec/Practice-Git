@@ -1,0 +1,2 @@
+I am Pranav Shridhar 
+Just started learning Python. Blogged about my first project on [medium](https://medium.com/@8shridhar8/my-first-python-project-converting-a-disorganized-text-file-into-a-neatly-structured-csv-file-21f4c6af502d)
