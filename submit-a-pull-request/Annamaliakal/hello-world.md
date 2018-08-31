@@ -6,7 +6,7 @@ I completed my 12th from Carmel Public School, Vazhakulam.
 I would like to join FOSSMEC because I believe that it will help me to improve my coding skills.
 
 # **Skills**
-  I am Familiar with the basics of:
+  I am familiar with the basics of:
   * Python
   * C++
   * MySQL
