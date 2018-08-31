@@ -10,7 +10,7 @@
  +Travelling
 
  ***Why I want to join  FOSS*** </br>
-  I'm a curious person and always open to new ideas and innovations.I'm a beginner in the field . I enjoy learning and this is a 
+  I'm a curious person and always open to new ideas and innovations.I'm a beginner in coding . I enjoy learning and this is a 
   great place to do that!
 
  ***Contact*** </br>
