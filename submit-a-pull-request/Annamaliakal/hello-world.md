@@ -18,7 +18,7 @@ I would like to join FOSSMEC because I believe that it will help me to improve m
   
 # **My interests**
   * Programming
-  * Blockchain (interested in learning about this kinda future techs)
-  * Machine Learning (_same here_)
+  * Blockchain 
+  * Machine Learning 
   
 
